@@ -1,0 +1,83 @@
+Pressed 'Run benchmark'
+Starting memory measurement. Max FPS is 60 FPS.
+About to run 'GCD'-version of SpawnManyActors with batch mode: true
+Running BenchApp.SpawnManyActors:runGCD with 100 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.64202880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+
+(GCD, 100 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 200 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+
+(GCD, 200 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 300 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+
+(GCD, 300 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 400 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+
+(GCD, 400 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 500 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+
+(GCD, 500 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 600 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+
+(GCD, 600 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 700 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+
+(GCD, 700 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 800 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+
+(GCD, 800 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 900 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.70452880859375
+2022-06-06 17:22:15 +0000, mem: 14.65765380859375
+
+(GCD, 900 actors) Done.
+
+Running BenchApp.SpawnManyActors:runGCD with 1000 actor(s) and 110 iteration(s).
+
+2022-06-06 17:22:15 +0000, mem: 14.65765380859375
+2022-06-06 17:22:15 +0000, mem: 14.65765380859375
+2022-06-06 17:22:15 +0000, mem: 14.65765380859375
+2022-06-06 17:22:15 +0000, mem: 14.65765380859375
+2022-06-06 17:22:15 +0000, mem: 14.65765380859375
+
+(GCD, 1000 actors) Done.
+
+Benchmark done

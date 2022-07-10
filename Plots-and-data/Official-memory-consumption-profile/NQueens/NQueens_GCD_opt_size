@@ -1,0 +1,36 @@
+Pressed 'Run benchmark'
+Starting memory measurement. Max FPS is 60 FPS.
+About to run 'GCD'-version of NQueens with batch mode: true
+Running BenchApp.NQueens:runGCD with 1 queen(s) and 110 iteration(s).
+
+
+(GCD, 1 queens) Done.
+
+Running BenchApp.NQueens:runGCD with 2 queen(s) and 110 iteration(s).
+
+2022-06-06 19:08:07 +0000, mem: 14.89190673828125
+
+(GCD, 2 queens) Done.
+
+Running BenchApp.NQueens:runGCD with 3 queen(s) and 110 iteration(s).
+
+2022-06-06 19:08:07 +0000, mem: 14.9700927734375
+
+(GCD, 3 queens) Done.
+
+Running BenchApp.NQueens:runGCD with 4 queen(s) and 110 iteration(s).
+
+2022-06-06 19:08:07 +0000, mem: 15.1263427734375
+2022-06-06 19:08:07 +0000, mem: 15.1419677734375
+
+(GCD, 4 queens) Done.
+
+Running BenchApp.NQueens:runGCD with 5 queen(s) and 110 iteration(s).
+
+2022-06-06 19:08:07 +0000, mem: 15.6107177734375
+2022-06-06 19:08:07 +0000, mem: 15.6419677734375
+2022-06-06 19:08:07 +0000, mem: 15.6575927734375
+2022-06-06 19:08:07 +0000, mem: 15.6732177734375
+2022-06-06 19:08:07 +0000, mem: 15.7044677734375
+
+(GCD, 5 queens) Done.
